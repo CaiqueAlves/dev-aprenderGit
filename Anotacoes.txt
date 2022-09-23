@@ -1,1 +1,7 @@
 git init - inicia um repositorio(pasta .git)
+
+*adicionar controle de versão
+git commit é um "gerador de versão", adicionamos nele a informação do que foi alterado, se for a primeira vez, sera solicitado dizer "who you are" user.email && user.name
+
+*Enviar primeira versão para o gitHub
+Adicionar URL - Definir o link para subir o projeto "git remote add origin https://github.com/CaiqueAlves/dev-aprenderGit"
