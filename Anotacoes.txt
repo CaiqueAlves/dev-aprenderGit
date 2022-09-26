@@ -5,3 +5,7 @@ git commit é um "gerador de versão", adicionamos nele a informação do que fo
 
 *Enviar primeira versão para o gitHub
 Adicionar URL - Definir o link para subir o projeto "git remote add origin https://github.com/CaiqueAlves/dev-aprenderGit"
+
+*branch
+criar - git branch <nome>
+verificar branches existentes - git branch
