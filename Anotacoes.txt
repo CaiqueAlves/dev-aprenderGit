@@ -9,3 +9,9 @@ Adicionar URL - Definir o link para subir o projeto "git remote add origin https
 *branch
 criar - git branch <nome>
 verificar branches existentes - git branch
+
+*merge
+deve entrar na branch master
+atualizar a branch PULL
+dar o comando merge
+dar o comando empurrar PUSH
